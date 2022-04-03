@@ -1,6 +1,6 @@
-﻿COMS 319
-Chat Application
-James Volpe
+﻿COMS 319   
+Chat Application   
+James Volpe   
 
 ### To Use Server and Client:
 
