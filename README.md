@@ -1,6 +1,10 @@
 ﻿COMS 319   
 Chat Application   
-James Volpe   
+James Volpe
+
+### About
+As my first project for COM S 319: Software Construction and User Interfaces, I developed a basic chat application in Java using sockets.
+I started by reading up about sockets which subsequentley led to watching dozens of youtube tutorials. Eventually, I got the hang of using socket input and output streams, and developed my own implementation of client and server threads. For a full details on the implementation, check out the "Project Report" PDF in the github repository. To see the app in action, check out [this video](https://www.youtube.com/embed/rdpS6XJVVl8).
 
 ### To Use Server and Client:
 
