@@ -2,10 +2,6 @@
 Chat Application
 James Volpe
 
-
-## READ ME:
-
-
 ### To Use Server and Client:
 
 
